@@ -1,0 +1,56 @@
+.imgHeading{
+    font-size: 22px;
+    color: #ccad00;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #ccad00;
+}
+.btnCustom:hover{
+    color: #fff;
+    background-color: gray;
+    border: 1px solid #ccad00;
+}
+.btnCustom{
+    padding: 7px 25px 9px;
+    color: #fff;
+    background-color: #ccad00;
+}
+.relatedHeading{
+    font-size: 1.30rem;
+    color: #ccad00;
+}
+footer{
+    min-height: 500px;
+    background-image: url(../img/hexagon.jpg);
+    background-size: contain;
+}
+.boxText{
+    color: #262626;
+}
+p{
+    color: darkgray;
+}
+
+.btnCustom1:hover{
+   border: 1px solid #ccad00;
+    color: #fff;
+    background-color: #ccad00;
+}
+.btnCustom1{
+    padding: 7px 25px 9px;
+    color: #fff;
+    background-color: gray;
+    border: 0px;
+}
+
+.1h-30{
+    line-height: 26px;
+  }
+  .gold{
+      color: #998200;
+  }
+  .customLink{
+      line-height: 40px;
+
+  }
